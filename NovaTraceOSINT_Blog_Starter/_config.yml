@@ -1,7 +1,4 @@
-title: NovaTraceOSINT
-description: "OSINT case files, scam investigations, and digital footprints traced."
-url: "https://novatraceosint.github.io"
-baseurl: ""
-theme: minima
-author: NovaTrace
-Added Jekyll Theme
+title: NovaTrace OSINT Blog
+description: Documenting OSINT investigations and threat research.
+theme: jekyll-theme-cayman
+
