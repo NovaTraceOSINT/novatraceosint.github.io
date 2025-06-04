@@ -1,4 +1,35 @@
 title: NovaTrace OSINT Blog
-description: Documenting OSINT investigations and threat research.
-theme: jekyll-theme-cayman
+email: your.email@example.com
+description: >-
+  Documenting OSINT investigations, scam breakdowns, and cyber threat research.
 
+baseurl: "" # leave this empty for user GitHub Pages
+url: "https://novatraceosint.github.io" # your site URL
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
+
+# Build settings
+markdown: kramdown
+theme: null
+
+# Author info (used in sidebar and footer)
+author:
+  name: "Romer Tanaleon"
+  avatar: "/assets/images/romer.jpg" # optional profile picture
+  bio: "OSINT investigator | NovaTrace"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/novatraceosint"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/romer-tanaleon"
+
+
+# Enable UI features
+minimal_mistakes_skin: "default"
+search: true
+breadcrumbs: true
+show_date: true
