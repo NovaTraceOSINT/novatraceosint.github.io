@@ -7,6 +7,8 @@ baseurl: "" # leave this empty for user GitHub Pages
 url: "https://novatraceosint.github.io" # your site URL
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+
 plugins:
   - jekyll-include-cache
 
@@ -29,7 +31,6 @@ author:
 
 
 # Enable UI features
-minimal_mistakes_skin: "dark"
 search: true
 breadcrumbs: true
 show_date: true
