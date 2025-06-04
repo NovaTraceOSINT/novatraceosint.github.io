@@ -4,12 +4,36 @@ title: "MSAI WhatsApp Scam Investigation"
 date: 2025-06-03
 ---
 
-I conducted an OSINT investigation on a fake WhatsApp group impersonating Morgan Stanley. This group promoted a fake "MSAI Training Center" led by a fabricated version of Jed Finn ("Jade Finn").
+> **📌 TL;DR:** This investigation covers a WhatsApp scam impersonating Morgan Stanley using fake AI training claims.
 
-## Key Findings
+---
 
-- The same invoice scam template has been reused across Instagram and other platforms.
-- Several phone numbers linked to the group are known scam lines.
-- Domain impersonation and LinkedIn social engineering were used to build false credibility.
+## 🧠 Background
 
-Stay tuned for the full write-up. This case is ongoing, and I’ll be documenting new techniques and trace methods as they develop.
+The MSAI WhatsApp group falsely claimed to be a Morgan Stanley AI initiative. A fabricated "Jade Finn" led the group using stolen profile images and fake credentials.
+
+---
+
+## 🔍 Key Findings
+
+- Reused invoice templates found across scam reports
+- Phone numbers tied to known fraud lines
+- Fake LinkedIn recruiter profiles and spoofed domains
+- Same tactic reused in Instagram "Geek Squad" scam posts
+
+---
+
+## 🧰 Tools Used
+
+- `whois`, `Shodan`, `Google Dorks`, `reverse image search`, and `Hybrid Analysis`
+- Manual phone number checks using scam databases
+- Archive.org for tracking deleted profiles
+
+---
+
+## 🧾 Evidence
+
+You can include inline images like this (after uploading to GitHub or using an image host):
+
+```markdown
+![Fake Invoice Sample](https://your-image-link.png)
