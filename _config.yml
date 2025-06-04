@@ -29,7 +29,7 @@ author:
 
 
 # Enable UI features
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 search: true
 breadcrumbs: true
 show_date: true
