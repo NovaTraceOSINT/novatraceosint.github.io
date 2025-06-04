@@ -1,8 +1,9 @@
 ---
-layout: home
-title: Welcome to NovaTrace
+layout: default
+title: Welcome to NovaTrace OSINT
 ---
 
-Welcome to **NovaTrace OSINT**, a collection of open source investigations, threat research, and digital trace analysis.
+# 👀 Welcome
 
-Check out the latest case files below.
+This blog documents my OSINT investigations, threat research, and cybersecurity learning journey. Stay tuned for breakdowns of scams, phishing cases, and more.
+
