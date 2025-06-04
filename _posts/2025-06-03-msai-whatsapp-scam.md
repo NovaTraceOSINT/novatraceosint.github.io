@@ -4,36 +4,25 @@ title: "MSAI WhatsApp Scam Investigation"
 date: 2025-06-03
 ---
 
-> **📌 TL;DR:** This investigation covers a WhatsApp scam impersonating Morgan Stanley using fake AI training claims.
-
----
+<div style="background:#f4f4f4;padding:1em;border-left:4px solid #007acc;">
+  <strong>⚠️ TL;DR:</strong> This scam group impersonates Morgan Stanley and uses fake training schemes.
+</div>
 
 ## 🧠 Background
 
-The MSAI WhatsApp group falsely claimed to be a Morgan Stanley AI initiative. A fabricated "Jade Finn" led the group using stolen profile images and fake credentials.
+The group pretended to be a Morgan Stanley AI initiative...
 
----
+<hr>
 
-## 🔍 Key Findings
+<h2 style="color:#007acc;">🧰 Tools Used</h2>
 
-- Reused invoice templates found across scam reports
-- Phone numbers tied to known fraud lines
-- Fake LinkedIn recruiter profiles and spoofed domains
-- Same tactic reused in Instagram "Geek Squad" scam posts
+<ul>
+  <li>Google Dorking</li>
+  <li>Shodan & Whois</li>
+  <li>Reverse Image Search</li>
+</ul>
 
----
-
-## 🧰 Tools Used
-
-- `whois`, `Shodan`, `Google Dorks`, `reverse image search`, and `Hybrid Analysis`
-- Manual phone number checks using scam databases
-- Archive.org for tracking deleted profiles
-
----
-
-## 🧾 Evidence
-
-You can include inline images like this (after uploading to GitHub or using an image host):
-
-```markdown
-![Fake Invoice Sample](https://your-image-link.png)
+<blockquote>
+  “Your PayPal account will be debited $399.99…”  
+  <br><strong>– Fake Geek Squad Invoice</strong>
+</blockquote>
