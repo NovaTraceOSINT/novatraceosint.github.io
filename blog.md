@@ -8,7 +8,8 @@ title: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ https://novatraceosint.github.io/2025/06/03/msai-whatsapp-scam.md }}">{{ post.MSAI Scam }}</a> <small>({{ post.date | date: "06-03-25" }})</small>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small>({{ post.date | date: "%Y-%m-%d" }})</small>
     </li>
   {% endfor %}
 </ul>
