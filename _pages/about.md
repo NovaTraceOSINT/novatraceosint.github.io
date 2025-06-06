@@ -5,6 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 
+---
+
 Hey — I’m Romer, the OSINT investigator behind **NovaTrace**.
 
 By day, I work as a biomedical equipment technician, but my curiosity about digital threats and scams led me deep into the world of **Open Source Intelligence (OSINT)**. What started as a personal interest evolved into real investigations — tracing scam networks, analyzing phishing attempts, and documenting how social engineering campaigns unfold.
