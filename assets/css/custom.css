@@ -1,9 +1,12 @@
 /* Apply divider only when sidebar is visible */
-.page.has-sidebar .main {
-  border-left: 2px solid #00ffff;
+.page.has-sidebar .sidebar {
+  border-left: 2px solid #555;
   padding-left: 1rem;
 }
 
+.page.has-sidebar .main {
+  padding-left: 2rem;
+}
 
 /* Make post titles bolder and brighter */
 .page__title, .archive__item-title {
