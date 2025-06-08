@@ -5,8 +5,10 @@
 }
 
 .page.has-sidebar .sidebar {
-  box-shadow: 2px 0 8px rgba(0, 255, 255, 0.2); /* cyber-style glow */
+  border-right: 2px solid #00ffff;
+  box-shadow: 4px 0 12px rgba(0, 255, 255, 0.2);
 }
+
 
 /* Make post titles bolder and brighter */
 .page__title, .archive__item-title {
