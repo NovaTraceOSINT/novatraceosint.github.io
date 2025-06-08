@@ -15,10 +15,8 @@
   border: 2px solid #555;
 }
 
-/* Add a soft shadow to main content */
+/* Adds a visible left shadow to the main content to act like a divider */
 .main {
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
-  padding: 1rem;
-  background: #1a1a1a;
-  border-radius: 12px;
+  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.7);
 }
+
