@@ -1,12 +1,11 @@
 /* Apply divider only when sidebar is visible */
 .page.has-sidebar .sidebar {
-  border-right: 2px solid #555;
+  border-right: 2px solid #888;
   padding-right: 1rem;
 }
 
-.page.has-sidebar .main {
-  padding-left: 2rem;
-  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.7);
+.page.has-sidebar .sidebar {
+  box-shadow: 2px 0 8px rgba(0, 255, 255, 0.2); /* cyber-style glow */
 }
 
 /* Make post titles bolder and brighter */
@@ -19,4 +18,13 @@
 .sidebar .author__avatar img {
   border-radius: 50%;
   border: 2px solid #555;
+}
+
+.sidebar .author__avatar {
+  margin-bottom: 1rem;
+}
+
+.sidebar .author__avatar img {
+  border: 2px solid #00ffff;
+  padding: 4px;
 }
