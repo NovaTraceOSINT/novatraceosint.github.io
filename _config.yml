@@ -18,7 +18,6 @@ theme: null
 
 # Author info (used in sidebar and footer)
 author:
-  name: "Romer Tanaleon"
   avatar: "/assets/images/NovaTrace_Shield.png" # optional profile picture
   bio: "OSINT investigator | NovaTrace"
   links:
