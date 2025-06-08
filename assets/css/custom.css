@@ -1,0 +1,24 @@
+/* Sidebar divider */
+.sidebar {
+  border-right: 1px solid #444;
+}
+
+/* Make post titles bolder and brighter */
+.page__title, .archive__item-title {
+  color: #ffcc00;
+  font-weight: 700;
+}
+
+/* Round profile images */
+.sidebar .author__avatar img {
+  border-radius: 50%;
+  border: 2px solid #555;
+}
+
+/* Add a soft shadow to main content */
+.main {
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  padding: 1rem;
+  background: #1a1a1a;
+  border-radius: 12px;
+}

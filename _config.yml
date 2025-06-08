@@ -44,4 +44,4 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      custom_css: "assets/css/custom.css"
