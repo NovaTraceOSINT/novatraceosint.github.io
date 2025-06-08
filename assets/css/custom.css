@@ -1,7 +1,9 @@
-/* Sidebar divider */
-.sidebar {
-  border-right: 1px solid #00ffff;
+/* Apply divider only when sidebar is visible */
+.page.has-sidebar .main {
+  border-left: 2px solid #00ffff;
+  padding-left: 1rem;
 }
+
 
 /* Make post titles bolder and brighter */
 .page__title, .archive__item-title {
