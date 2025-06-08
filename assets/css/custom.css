@@ -1,11 +1,12 @@
 /* Apply divider only when sidebar is visible */
 .page.has-sidebar .sidebar {
-  border-left: 2px solid #555;
-  padding-left: 1rem;
+  border-right: 2px solid #555;
+  padding-right: 1rem;
 }
 
 .page.has-sidebar .main {
   padding-left: 2rem;
+  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.7);
 }
 
 /* Make post titles bolder and brighter */
@@ -19,9 +20,3 @@
   border-radius: 50%;
   border: 2px solid #555;
 }
-
-/* Adds a visible left shadow to the main content to act like a divider */
-.main {
-  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.7);
-}
-
