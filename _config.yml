@@ -19,7 +19,7 @@ theme: null
 # Author info (used in sidebar and footer)
 author:
   avatar: "/assets/images/NovaTrace_Shield.png" # optional profile picture
-  bio: "OSINT investigator | NovaTrace"
+  bio: "OSINT Investigator"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
