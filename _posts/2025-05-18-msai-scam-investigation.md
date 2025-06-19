@@ -18,7 +18,7 @@ In this report, we investigate a fraudulent group impersonating Morgan Stanley u
 - Faked Zoom videos
 - Traced fake identities to a previous crypto scam group
 
-![Reverse image search result](../assets/images/msai-scam/admin_rsi_owners.png)
+![Reverse image search result](../assets/images/msai-scam/admin-owners.png)
 
 
 Stay tuned for more case studies from NovaTrace.
